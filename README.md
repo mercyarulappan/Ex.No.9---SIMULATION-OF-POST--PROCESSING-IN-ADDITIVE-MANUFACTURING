@@ -50,8 +50,6 @@
 ![image](https://github.com/user-attachments/assets/62a7d286-1125-4689-993e-7e7cf927de3a)
 ![image](https://github.com/user-attachments/assets/4ce43621-4858-4efa-899a-a0dd2589fa43)
 
-### Name: MERCY A
-### Register Number: 212223110027
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
